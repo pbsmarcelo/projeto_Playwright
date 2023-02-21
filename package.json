@@ -1,0 +1,15 @@
+{
+  "name": "live_zero",
+  "version": "1.0.0",
+  "description": "Estudos da ferramenta Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Marcelo Patrik",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0",
+    "typescript": "^4.9.5"
+  }
+}
